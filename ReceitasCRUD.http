@@ -1,0 +1,6 @@
+@ReceitasCRUD_HostAddress = http://localhost:5010
+
+GET {{ReceitasCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
